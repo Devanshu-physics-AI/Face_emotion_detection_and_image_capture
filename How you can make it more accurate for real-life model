@@ -5,4 +5,6 @@ You can change the activation function of output layer to the Sigmoid in place o
 You can use the EarlyStopping technique to reach the best output
 You can make changes in the layer and number of neurons
 You can use dropout method to make stop it from overfitting
+You must use the "rembg" library to remove the background from the real-life image and then apply the face-detection function so that it can work too accurately.
+Above library will increase the accuracy of model by good percentage but become more complex and runtime also increases significantly.
 .........I will add more about it if I came to know more techniques, since I am also in learnign phase.
